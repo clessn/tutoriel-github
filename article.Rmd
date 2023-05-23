@@ -16,5 +16,5 @@ library("tidyverse")
 library(ggplot2)
 
 ggplot(mpg, aes(displ, hwy, colour = class)) + 
-  geom_point()
+  geom_jitter()
 ```
