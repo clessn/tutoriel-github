@@ -1,0 +1,11 @@
+---
+title: My R Markdown Report
+author: Judith Bourque
+output: pdf_document
+---
+
+# Introduction
+
+This is my first paragraph.
+
+# Data analysis
