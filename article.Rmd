@@ -9,3 +9,12 @@ output: pdf_document
 This is my first paragraph.
 
 # Data analysis
+
+```{r}
+library("tidyverse")
+
+library(ggplot2)
+
+ggplot(mpg, aes(displ, hwy, colour = class)) + 
+  geom_jitter()
+```
