@@ -18,6 +18,10 @@ Tutoriel pour la collaboration à l'aide GitHub
 
 ## [Terminologie Git de base](https://github.com/UofTCoders/studyGroup/blob/gh-pages/lessons/git/collaboration/lesson.md#some-git-terminologyjargon)
 
+## Exercice: [1 personne](https://github.com/UofTCoders/studyGroup/blob/gh-pages/lessons/git/collaboration/lesson.md#solo-practise-via-the-github-gui)
+
+### Exercice: [2 personnes](https://github.com/UofTCoders/studyGroup/blob/gh-pages/lessons/git/collaboration/lesson.md#two-person-practise-via-github-gui)
+
 ## Exemple d'article
 
 ## Références
