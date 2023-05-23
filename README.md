@@ -3,6 +3,9 @@ Tutoriel pour la collaboration à l'aide GitHub
 
 ## Git et GitHub
 
+- Git: système de gestion de version
+- GitHub: service de cloud pour gérer des dépot git
+
 ## Concepts de base
 
 - Repo
