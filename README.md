@@ -6,12 +6,12 @@ Tutoriel pour la collaboration à l'aide GitHub
 - Git: système de gestion de version
 - GitHub: service de cloud pour gérer des dépot git
 
-## Concepts de base
+## Principes de base
 
-- Repo
-- Issue = todo
-- Milestone = échéance
-- Pull request
+- Chaque projet a un repo
+- Chaque tâche à faire est un Issue
+- Und échéance est assigné à chaque issue à l'aide de Milestone
+- Les modifications sont faites sur des branches et combinées à Main à l'aide de Pull requests
 
 ## Références
 
