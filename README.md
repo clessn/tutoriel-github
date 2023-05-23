@@ -10,8 +10,11 @@ Tutoriel pour la collaboration à l'aide GitHub
 
 - Chaque projet a un repo
 - Chaque tâche à faire est un Issue
-- Und échéance est assigné à chaque issue à l'aide de Milestone
+  - Assigné à quelqu'un
+  - Avec une échéance spécifiée à l'aide de Milestone
 - Les modifications sont faites sur des branches et combinées à Main à l'aide de Pull requests
+
+## Exemple d'article
 
 ## Références
 
