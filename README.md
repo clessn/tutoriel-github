@@ -14,6 +14,10 @@ Tutoriel pour la collaboration à l'aide GitHub
   - Avec une échéance spécifiée à l'aide de Milestone
 - Les modifications sont faites sur des branches et combinées à Main à l'aide de Pull requests
 
+## [2 types de flux de travail](https://github.com/UofTCoders/studyGroup/blob/gh-pages/lessons/git/collaboration/lesson.md#two-common-collaborative-work-flows)
+
+## [Terminologie Git de base](https://github.com/UofTCoders/studyGroup/blob/gh-pages/lessons/git/collaboration/lesson.md#some-git-terminologyjargon)
+
 ## Exemple d'article
 
 ## Références
